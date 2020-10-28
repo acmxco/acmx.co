@@ -1,9 +1,7 @@
-“scripts”: {
-
-        "start": "node index.js"
-  
-      },
-      {
+  "scripts": {
+    "start": "node server.js"
+  },
+{
   "name": "acmx.co",
   "version": "1.0.0",
   "description": "",
