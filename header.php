@@ -245,7 +245,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a href="./Home" class="navbar-brand animate__fadeIn">
+			<a href="./index" class="navbar-brand animate__fadeIn">
 				<img class="mlogo" src="assets/43.png">
 			</a>
 		</div>
@@ -253,7 +253,7 @@
 		<nav class="sidebar">
 			<div class="navbar-collapse" id="navbar-collapse">
 				<div class="site-header hidden-xs">
-					<a class="site-brand" href="./Home" title="">
+					<a class="site-brand" href="./index" title="">
 						<img class="logo" src="assets/43.png">
 					</a>
 					<p></p>
